@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Welcome to America!"
 date: 2020-01-28
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
 thumb: -![america](./_images/america.JPG)
-category: music
-tags: relax fun songs playlist
+category: travel
+tags: travel
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
-
-Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
+학교에서 해외기업탐방 프로그램에 합격해서 동기와 후배, 그리고 교수님까지 같이 떠나는 미국 여행이 되었다.
 
 ![america](./_images/america.JPG)
 
