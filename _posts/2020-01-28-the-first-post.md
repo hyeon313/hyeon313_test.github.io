@@ -3,8 +3,9 @@ layout: post
 title: "Welcome to America!"
 date: 2020-01-28
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
-thumb: -![america](./_images/america.JPG)
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
+thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
 category: travel
 tags: travel
 ---
