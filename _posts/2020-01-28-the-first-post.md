@@ -4,7 +4,7 @@ title: "Welcome to Jekyll!"
 date: 2020-01-28
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
+thumb: ![america](./_images/america.JPG)
 category: music
 tags: relax fun songs playlist
 ---
