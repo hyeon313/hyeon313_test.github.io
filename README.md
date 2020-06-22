@@ -6,7 +6,7 @@ Travelogue
 
 안녕하세요 이지현의 블로그입니다.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
+![profile](./_images/profile.jpg)
 
 
 ## Getting Started
