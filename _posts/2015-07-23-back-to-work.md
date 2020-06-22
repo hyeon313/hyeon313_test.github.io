@@ -20,5 +20,5 @@ tags: photo
  
  ![2015-7-23_1](../_images/2015-7-23_1.JPG)
 
-
-Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed `<i>emph</i>`. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
+---
+2015년 고등학교 3학년때 찍었던 사진입니다.
