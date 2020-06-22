@@ -1,7 +1,7 @@
 remote_theme: SalGnt/Travelogue
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: JiHyeon
+description: '안녕하세요 이지현의 블로그입니다.'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://hyeon313.github.io' # the base hostname & protocol for your site
