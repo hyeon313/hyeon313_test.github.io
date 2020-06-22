@@ -1,9 +1,10 @@
+remote_theme: SalGnt/Travelogue
 # Site settings
 name: Travelogue
 description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://yourdomain.com' # the base hostname & protocol for your site
+url: 'https://hyeon313.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -17,7 +18,7 @@ paginate_path:       page/:num/
 author:
     name: 'Salvatore Gentile'
     email: ''
-    uri: 'https://github.com/SalGnt'
+    uri: 'https://github.com/hyeon313'
 
 sass:
     sass_dir: _sass
